@@ -1,0 +1,254 @@
+<!-- TODO:
+- Fix the path to the background images
+- Use gnome-tweaks tool to select this XML as wallpaper
+-->
+<background>
+  <starttime>
+    <year>2019</year>
+    <month>01</month>
+    <day>01</day>
+    <hour>0</hour>
+    <minute>00</minute>
+    <second>00</second>
+  </starttime>
+  <!-- 00:00 -->
+  <static>
+    <duration>3595.0</duration>
+    <file>/home/yuriypelekh/Pictures/Wallpapers/Catalina/00.jpg</file>
+  </static>
+  <transition type="overlay">
+    <duration>5.0</duration>
+    <from>/home/yuriypelekh/Pictures/Wallpapers/Catalina/00.jpg</from>
+    <to>/home/yuriypelekh/Pictures/Wallpapers/Catalina/01.jpg</to>
+  </transition>
+  <!-- 01:00 -->
+  <static>
+    <duration>3595.0</duration>
+    <file>/home/yuriypelekh/Pictures/Wallpapers/Catalina/01.jpg</file>
+  </static>
+  <transition type="overlay">
+    <duration>5.0</duration>
+    <from>/home/yuriypelekh/Pictures/Wallpapers/Catalina/01.jpg</from>
+    <to>/home/yuriypelekh/Pictures/Wallpapers/Catalina/02.jpg</to>
+  </transition>
+  <!-- 02:00 -->
+  <static>
+    <duration>3595.0</duration>
+    <file>/home/yuriypelekh/Pictures/Wallpapers/Catalina/02.jpg</file>
+  </static>
+  <transition type="overlay">
+    <duration>5.0</duration>
+    <from>/home/yuriypelekh/Pictures/Wallpapers/Catalina/02.jpg</from>
+    <to>/home/yuriypelekh/Pictures/Wallpapers/Catalina/03.jpg</to>
+  </transition>
+  <!-- 03:00 -->
+  <static>
+    <duration>3595.0</duration>
+    <file>/home/yuriypelekh/Pictures/Wallpapers/Catalina/03.jpg</file>
+  </static>
+  <transition type="overlay">
+    <duration>5.0</duration>
+    <from>/home/yuriypelekh/Pictures/Wallpapers/Catalina/03.jpg</from>
+    <to>/home/yuriypelekh/Pictures/Wallpapers/Catalina/04.jpg</to>
+  </transition>
+  <!-- 04:00 -->
+  <static>
+    <duration>3595.0</duration>
+    <file>/home/yuriypelekh/Pictures/Wallpapers/Catalina/04.jpg</file>
+  </static>
+  <transition type="overlay">
+    <duration>5.0</duration>
+    <from>/home/yuriypelekh/Pictures/Wallpapers/Catalina/04.jpg</from>
+    <to>/home/yuriypelekh/Pictures/Wallpapers/Catalina/05.jpg</to>
+  </transition>
+  <!-- 05:00 -->
+  <static>
+    <duration>3595.0</duration>
+    <file>/home/yuriypelekh/Pictures/Wallpapers/Catalina/05.jpg</file>
+  </static>
+  <transition type="overlay">
+    <duration>5.0</duration>
+    <from>/home/yuriypelekh/Pictures/Wallpapers/Catalina/05.jpg</from>
+    <to>/home/yuriypelekh/Pictures/Wallpapers/Catalina/06.jpg</to>
+  </transition>
+  <!-- 06:00 -->
+  <static>
+    <duration>3595.0</duration>
+    <file>/home/yuriypelekh/Pictures/Wallpapers/Catalina/06.jpg</file>
+  </static>
+  <transition type="overlay">
+    <duration>5.0</duration>
+    <from>/home/yuriypelekh/Pictures/Wallpapers/Catalina/06.jpg</from>
+    <to>/home/yuriypelekh/Pictures/Wallpapers/Catalina/07.jpg</to>
+  </transition>
+  <!-- 07:00 -->
+  <static>
+    <duration>3595.0</duration>
+    <file>/home/yuriypelekh/Pictures/Wallpapers/Catalina/07.jpg</file>
+  </static>
+  <transition type="overlay">
+    <duration>5.0</duration>
+    <from>/home/yuriypelekh/Pictures/Wallpapers/Catalina/07.jpg</from>
+    <to>/home/yuriypelekh/Pictures/Wallpapers/Catalina/08.jpg</to>
+  </transition>
+  <!-- 08:00 -->
+  <static>
+    <duration>3595.0</duration>
+    <file>/home/yuriypelekh/Pictures/Wallpapers/Catalina/08.jpg</file>
+  </static>
+  <transition type="overlay">
+    <duration>5.0</duration>
+    <from>/home/yuriypelekh/Pictures/Wallpapers/Catalina/08.jpg</from>
+    <to>/home/yuriypelekh/Pictures/Wallpapers/Catalina/09.jpg</to>
+  </transition>
+  <!-- 09:00 -->
+  <static>
+    <duration>3595.0</duration>
+    <file>/home/yuriypelekh/Pictures/Wallpapers/Catalina/09.jpg</file>
+  </static>
+  <transition type="overlay">
+    <duration>5.0</duration>
+    <from>/home/yuriypelekh/Pictures/Wallpapers/Catalina/09.jpg</from>
+    <to>/home/yuriypelekh/Pictures/Wallpapers/Catalina/10.jpg</to>
+  </transition>
+  <!-- 10:00 -->
+  <static>
+    <duration>3595.0</duration>
+    <file>/home/yuriypelekh/Pictures/Wallpapers/Catalina/10.jpg</file>
+  </static>
+  <transition type="overlay">
+    <duration>5.0</duration>
+    <from>/home/yuriypelekh/Pictures/Wallpapers/Catalina/10.jpg</from>
+    <to>/home/yuriypelekh/Pictures/Wallpapers/Catalina/11.jpg</to>
+  </transition>
+  <!-- 11:00 -->
+  <static>
+    <duration>3595.0</duration>
+    <file>/home/yuriypelekh/Pictures/Wallpapers/Catalina/11.jpg</file>
+  </static>
+  <transition type="overlay">
+    <duration>5.0</duration>
+    <from>/home/yuriypelekh/Pictures/Wallpapers/Catalina/11.jpg</from>
+    <to>/home/yuriypelekh/Pictures/Wallpapers/Catalina/12.jpg</to>
+  </transition>
+  <!-- 12:00 -->
+  <static>
+    <duration>3595.0</duration>
+    <file>/home/yuriypelekh/Pictures/Wallpapers/Catalina/12.jpg</file>
+  </static>
+  <transition type="overlay">
+    <duration>5.0</duration>
+    <from>/home/yuriypelekh/Pictures/Wallpapers/Catalina/12.jpg</from>
+    <to>/home/yuriypelekh/Pictures/Wallpapers/Catalina/13.jpg</to>
+  </transition>
+  <!-- 13:00 -->
+  <static>
+    <duration>3595.0</duration>
+    <file>/home/yuriypelekh/Pictures/Wallpapers/Catalina/13.jpg</file>
+  </static>
+  <transition type="overlay">
+    <duration>5.0</duration>
+    <from>/home/yuriypelekh/Pictures/Wallpapers/Catalina/13.jpg</from>
+    <to>/home/yuriypelekh/Pictures/Wallpapers/Catalina/14.jpg</to>
+  </transition>
+  <!-- 14:00 -->
+  <static>
+    <duration>3595.0</duration>
+    <file>/home/yuriypelekh/Pictures/Wallpapers/Catalina/14.jpg</file>
+  </static>
+  <transition type="overlay">
+    <duration>5.0</duration>
+    <from>/home/yuriypelekh/Pictures/Wallpapers/Catalina/14.jpg</from>
+    <to>/home/yuriypelekh/Pictures/Wallpapers/Catalina/15.jpg</to>
+  </transition>
+  <!-- 15:00 -->
+  <static>
+    <duration>3595.0</duration>
+    <file>/home/yuriypelekh/Pictures/Wallpapers/Catalina/15.jpg</file>
+  </static>
+  <transition type="overlay">
+    <duration>5.0</duration>
+    <from>/home/yuriypelekh/Pictures/Wallpapers/Catalina/15.jpg</from>
+    <to>/home/yuriypelekh/Pictures/Wallpapers/Catalina/16.jpg</to>
+  </transition>
+  <!-- 16:00 -->
+  <static>
+    <duration>3595.0</duration>
+    <file>/home/yuriypelekh/Pictures/Wallpapers/Catalina/16.jpg</file>
+  </static>
+  <transition type="overlay">
+    <duration>5.0</duration>
+    <from>/home/yuriypelekh/Pictures/Wallpapers/Catalina/16.jpg</from>
+    <to>/home/yuriypelekh/Pictures/Wallpapers/Catalina/17.jpg</to>
+  </transition>
+  <!-- 17:00 -->
+  <static>
+    <duration>3595.0</duration>
+    <file>/home/yuriypelekh/Pictures/Wallpapers/Catalina/17.jpg</file>
+  </static>
+  <transition type="overlay">
+    <duration>5.0</duration>
+    <from>/home/yuriypelekh/Pictures/Wallpapers/Catalina/17.jpg</from>
+    <to>/home/yuriypelekh/Pictures/Wallpapers/Catalina/18.jpg</to>
+  </transition>
+  <!-- 18:00 -->
+  <static>
+    <duration>3595.0</duration>
+    <file>/home/yuriypelekh/Pictures/Wallpapers/Catalina/18.jpg</file>
+  </static>
+  <transition type="overlay">
+    <duration>5.0</duration>
+    <from>/home/yuriypelekh/Pictures/Wallpapers/Catalina/18.jpg</from>
+    <to>/home/yuriypelekh/Pictures/Wallpapers/Catalina/19.jpg</to>
+  </transition>
+  <!-- 19:00 -->
+  <static>
+    <duration>3595.0</duration>
+    <file>/home/yuriypelekh/Pictures/Wallpapers/Catalina/19.jpg</file>
+  </static>
+  <transition type="overlay">
+    <duration>5.0</duration>
+    <from>/home/yuriypelekh/Pictures/Wallpapers/Catalina/19.jpg</from>
+    <to>/home/yuriypelekh/Pictures/Wallpapers/Catalina/20.jpg</to>
+  </transition>
+  <!-- 20:00 -->
+  <static>
+    <duration>3595.0</duration>
+    <file>/home/yuriypelekh/Pictures/Wallpapers/Catalina/20.jpg</file>
+  </static>
+  <transition type="overlay">
+    <duration>5.0</duration>
+    <from>/home/yuriypelekh/Pictures/Wallpapers/Catalina/20.jpg</from>
+    <to>/home/yuriypelekh/Pictures/Wallpapers/Catalina/21.jpg</to>
+  </transition>
+  <!-- 21:00 -->
+  <static>
+    <duration>3595.0</duration>
+    <file>/home/yuriypelekh/Pictures/Wallpapers/Catalina/21.jpg</file>
+  </static>
+  <transition type="overlay">
+    <duration>5.0</duration>
+    <from>/home/yuriypelekh/Pictures/Wallpapers/Catalina/21.jpg</from>
+    <to>/home/yuriypelekh/Pictures/Wallpapers/Catalina/22.jpg</to>
+  </transition>
+  <!-- 22:00 -->
+  <static>
+    <duration>3595.0</duration>
+    <file>/home/yuriypelekh/Pictures/Wallpapers/Catalina/22.jpg</file>
+  </static>
+  <transition type="overlay">
+    <duration>5.0</duration>
+    <from>/home/yuriypelekh/Pictures/Wallpapers/Catalina/22.jpg</from>
+    <to>/home/yuriypelekh/Pictures/Wallpapers/Catalina/23.jpg</to>
+  </transition>
+  <!-- 23:00 -->
+  <static>
+    <duration>3595.0</duration>
+    <file>/home/yuriypelekh/Pictures/Wallpapers/Catalina/23.jpg</file>
+  </static>
+  <transition type="overlay">
+    <duration>5.0</duration>
+    <from>/home/yuriypelekh/Pictures/Wallpapers/Catalina/23.jpg</from>
+    <to>/home/yuriypelekh/Pictures/Wallpapers/Catalina/00.jpg</to>
+  </transition>
+</background>
