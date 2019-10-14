@@ -7,4 +7,4 @@ Set catalina.xml as wallpaper using [Tweaks](https://wiki.gnome.org/action/show/
 ### Credits
 
 - Inspired by [How To Use macOS Mojave’s Dynamic Wallpaper on Linux](https://www.omgubuntu.co.uk/2018/06/macos-mojave-dynamic-background-linux).
-- mac OS Catalina hourly wallpapers took from [here](https://github.com/caglarturali/catalina-dynamic-wallpaper/tree/master/CatalinaDynamic/contents/images/hourly).
+- Thanks [macOS Catalina](https://www.apple.com/macos/catalina/) for awesome wallpapers.
