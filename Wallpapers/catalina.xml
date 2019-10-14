@@ -1,18 +1,3 @@
-<!-- Intruction:
-- Download and unzip Mojave dynamic background here: https://files.rb.gd/mojave_dynamic.zip 
-- Fix the path to the background images
-- Use gnome-tweaks tool to select this XML as wallpaper
-
-1: 22-6   - 8 - 28800
-2: 6-7    - 1 - 3600 
-3: 7-11   - 4 - 14400
-4: 11-13  - 2 - 7200
-5: 13-16  - 3 - 10800
-6: 16-18  - 2 - 7200
-7: 18-20  - 2 - 7200
-8: 20-22  - 2 - 7200
-
--->
 <background>
   <starttime>
     <year>2019</year>
@@ -103,3 +88,4 @@
     <to>/home/yuriypelekh/Pictures/Wallpapers/Catalina/1.jpg</to>
   </transition>
 </background>
+
