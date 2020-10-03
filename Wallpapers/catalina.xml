@@ -1,91 +1,165 @@
 <background>
   <starttime>
-    <year>2019</year>
-    <month>10</month>
-    <day>10</day>
-    <hour>22</hour>
+    <year>206</year>
+    <month>01</month>
+    <day>3</day>
+    <hour>0</hour>
     <minute>00</minute>
     <second>00</second>
   </starttime>
-  <!-- 22:00 -->
+  <!-- 00:00 -->
   <static>
-    <duration>28795.0</duration>
-    <file>/home/yuriypelekh/Pictures/Wallpapers/Catalina/1.jpg</file>
+    <duration>2795.0</duration>
+    <file>/home/aditya/Pictures/wallpapers/Catalina/Catalina-dynamic_7.jpg</file>
   </static>
   <transition type="overlay">
     <duration>5.0</duration>
-    <from>/home/yuriypelekh/Pictures/Wallpapers/Catalina/1.jpg</from>
-    <to>/home/yuriypelekh/Pictures/Wallpapers/Catalina/2.jpg</to>
+    <from>/home/aditya/Pictures/wallpapers/Catalina/Catalina-dynamic_7.jpg</from>
+    <to>/home/aditya/Pictures/wallpapers/Catalina/Catalina-dynamic_8.jpg</to>
+  </transition>
+  <!-- 03:00 -->
+  <static>
+    <duration>2795.0</duration>
+    <file>/home/aditya/Pictures/wallpapers/Catalina/Catalina-dynamic_8.jpg</file>
+  </static>
+  <transition type="overlay">
+    <duration>5.0</duration>
+    <from>/home/aditya/Pictures/wallpapers/Catalina/Catalina-dynamic_8.jpg</from>
+    <to>/home/aditya/Pictures/wallpapers/Catalina/Catalina-dynamic_1.jpg</to>
+  </transition>
+  <!-- 05:00 -->
+  <static>
+    <duration>3595.0</duration>
+    <file>/home/aditya/Pictures/wallpapers/Catalina/Catalina-dynamic_1.jpg</file>
+  </static>
+  <transition type="overlay">
+    <duration>5.0</duration>
+    <from>/home/aditya/Pictures/wallpapers/Catalina/Catalina-dynamic_1.jpg</from>
+    <to>/home/aditya/Pictures/wallpapers/Catalina/Catalina-dynamic_2.jpg</to>
   </transition>
   <!-- 06:00 -->
   <static>
     <duration>3595.0</duration>
-    <file>/home/yuriypelekh/Pictures/Wallpapers/Catalina/2.jpg</file>
+    <file>/home/aditya/Pictures/wallpapers/Catalina/Catalina-dynamic_2.jpg</file>
   </static>
   <transition type="overlay">
     <duration>5.0</duration>
-    <from>/home/yuriypelekh/Pictures/Wallpapers/Catalina/2.jpg</from>
-    <to>/home/yuriypelekh/Pictures/Wallpapers/Catalina/3.jpg</to>
+    <from>/home/aditya/Pictures/wallpapers/Catalina/Catalina-dynamic_2.jpg</from>
+    <to>/home/aditya/Pictures/wallpapers/Catalina/Catalina-dynamic_3.jpg</to>
   </transition>
   <!-- 07:00 -->
   <static>
-    <duration>14395.0</duration>
-    <file>/home/yuriypelekh/Pictures/Wallpapers/Catalina/3.jpg</file>
+    <duration>3595.0</duration>
+    <file>/home/aditya/Pictures/wallpapers/Catalina/Catalina-dynamic_3.jpg</file>
   </static>
   <transition type="overlay">
     <duration>5.0</duration>
-    <from>/home/yuriypelekh/Pictures/Wallpapers/Catalina/3.jpg</from>
-    <to>/home/yuriypelekh/Pictures/Wallpapers/Catalina/4.jpg</to>
+    <from>/home/aditya/Pictures/wallpapers/Catalina/Catalina-dynamic_3.jpg</from>
+    <to>/home/aditya/Pictures/wallpapers/Catalina/Catalina-dynamic_4.jpg</to>
   </transition>
-  <!-- 11:00 -->
+  <!-- 08:00 -->
+  <static>
+    <duration>3595.0</duration>
+    <file>/home/aditya/Pictures/wallpapers/Catalina/Catalina-dynamic_4.jpg</file>
+  </static>
+  <transition type="overlay">
+    <duration>5.0</duration>
+    <from>/home/aditya/Pictures/wallpapers/Catalina/Catalina-dynamic_4.jpg</from>
+    <to>/home/aditya/Pictures/wallpapers/Catalina/Catalina-dynamic_5.jpg</to>
+  </transition>
+  <!-- 09:00 -->
+  <static>
+    <duration>3595.0</duration>
+    <file>/home/aditya/Pictures/wallpapers/Catalina/Catalina-dynamic_5.jpg</file>
+  </static>
+  <transition type="overlay">
+    <duration>5.0</duration>
+    <from>/home/aditya/Pictures/wallpapers/Catalina/Catalina-dynamic_5.jpg</from>
+    <to>/home/aditya/Pictures/wallpapers/Catalina/Catalina-dynamic_6.jpg</to>
+  </transition>
+  <!-- 2:00 -->
+  <static>
+    <duration>3595.0</duration>
+    <file>/home/aditya/Pictures/wallpapers/Catalina/Catalina-dynamic_6.jpg</file>
+  </static>
+  <transition type="overlay">
+    <duration>5.0</duration>
+    <from>/home/aditya/Pictures/wallpapers/Catalina/Catalina-dynamic_6.jpg</from>
+    <to>/home/aditya/Pictures/wallpapers/Catalina/Catalina-dynamic_7.jpg</to>
+  </transition>
+  <!-- 3:00 -->
   <static>
     <duration>7195.0</duration>
-    <file>/home/yuriypelekh/Pictures/Wallpapers/Catalina/4.jpg</file>
+    <file>/home/aditya/Pictures/wallpapers/Catalina/Catalina-dynamic_7.jpg</file>
   </static>
   <transition type="overlay">
     <duration>5.0</duration>
-    <from>/home/yuriypelekh/Pictures/Wallpapers/Catalina/4.jpg</from>
-    <to>/home/yuriypelekh/Pictures/Wallpapers/Catalina/5.jpg</to>
+    <from>/home/aditya/Pictures/wallpapers/Catalina/Catalina-dynamic_7.jpg</from>
+    <to>/home/aditya/Pictures/wallpapers/Catalina/Catalina-dynamic_8.jpg</to>
   </transition>
-  <!-- 13:00 -->
+  <transition type="overlay">
+    <duration>5.0</duration>
+    <from>/home/aditya/Pictures/wallpapers/Catalina/Catalina-dynamic_8.jpg</from>
+    <to>/home/aditya/Pictures/wallpapers/Catalina/Catalina-dynamic_1.jpg</to>
+  </transition>
+  <!-- 6:00 -->
   <static>
-    <duration>10795.0</duration>
-    <file>/home/yuriypelekh/Pictures/Wallpapers/Catalina/5.jpg</file>
+    <duration>3595.0</duration>
+    <file>/home/aditya/Pictures/wallpapers/Catalina/Catalina-dynamic_1.jpg</file>
   </static>
   <transition type="overlay">
     <duration>5.0</duration>
-    <from>/home/yuriypelekh/Pictures/Wallpapers/Catalina/5.jpg</from>
-    <to>/home/yuriypelekh/Pictures/Wallpapers/Catalina/6.jpg</to>
+    <from>/home/aditya/Pictures/wallpapers/Catalina/Catalina-dynamic_1.jpg</from>
+    <to>/home/aditya/Pictures/wallpapers/Catalina/Catalina-dynamic_2.jpg</to>
+  </transition>
+  <!-- 7:00 -->
+  <static>
+    <duration>3595.0</duration>
+    <file>/home/aditya/Pictures/wallpapers/Catalina/Catalina-dynamic_2.jpg</file>
+  </static>
+  <transition type="overlay">
+    <duration>5.0</duration>
+    <from>/home/aditya/Pictures/wallpapers/Catalina/Catalina-dynamic_2.jpg</from>
+    <to>/home/aditya/Pictures/wallpapers/Catalina/Catalina-dynamic_3.jpg</to>
   </transition>
   <!-- 16:00 -->
   <static>
-    <duration>7195.0</duration>
-    <file>/home/yuriypelekh/Pictures/Wallpapers/Catalina/6.jpg</file>
+    <duration>3595.0</duration>
+    <file>/home/aditya/Pictures/wallpapers/Catalina/Catalina-dynamic_3.jpg</file>
   </static>
   <transition type="overlay">
     <duration>5.0</duration>
-    <from>/home/yuriypelekh/Pictures/Wallpapers/Catalina/6.jpg</from>
-    <to>/home/yuriypelekh/Pictures/Wallpapers/Catalina/7.jpg</to>
+    <from>/home/aditya/Pictures/wallpapers/Catalina/Catalina-dynamic_3.jpg</from>
+    <to>/home/aditya/Pictures/wallpapers/Catalina/Catalina-dynamic_4.jpg</to>
+  </transition>
+  <!-- 17:00 -->
+  <static>
+    <duration>3595.0</duration>
+    <file>/home/aditya/Pictures/wallpapers/Catalina/Catalina-dynamic_4.jpg</file>
+  </static>
+  <transition type="overlay">
+    <duration>5.0</duration>
+    <from>/home/aditya/Pictures/wallpapers/Catalina/Catalina-dynamic_4.jpg</from>
+    <to>/home/aditya/Pictures/wallpapers/Catalina/Catalina-dynamic_5.jpg</to>
   </transition>
   <!-- 18:00 -->
   <static>
     <duration>7195.0</duration>
-    <file>/home/yuriypelekh/Pictures/Wallpapers/Catalina/7.jpg</file>
+    <file>/home/aditya/Pictures/wallpapers/Catalina/Catalina-dynamic_5.jpg</file>
   </static>
   <transition type="overlay">
     <duration>5.0</duration>
-    <from>/home/yuriypelekh/Pictures/Wallpapers/Catalina/7.jpg</from>
-    <to>/home/yuriypelekh/Pictures/Wallpapers/Catalina/8.jpg</to>
+    <from>/home/aditya/Pictures/wallpapers/Catalina/Catalina-dynamic_5.jpg</from>
+    <to>/home/aditya/Pictures/wallpapers/Catalina/Catalina-dynamic_6.jpg</to>
   </transition>
   <!-- 20:00 -->
   <static>
-    <duration>7195.0</duration>
-    <file>/home/yuriypelekh/Pictures/Wallpapers/Catalina/8.jpg</file>
+    <duration>2795.0</duration>
+    <file>/home/aditya/Pictures/wallpapers/Catalina/Catalina-dynamic_6.jpg</file>
   </static>
   <transition type="overlay">
     <duration>5.0</duration>
-    <from>/home/yuriypelekh/Pictures/Wallpapers/Catalina/8.jpg</from>
-    <to>/home/yuriypelekh/Pictures/Wallpapers/Catalina/1.jpg</to>
+    <from>/home/aditya/Pictures/wallpapers/Catalina/Catalina-dynamic_6.jpg</from>
+    <to>/home/aditya/Pictures/wallpapers/Catalina/Catalina-dynamic_7.jpg</to>
   </transition>
 </background>
-
